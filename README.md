@@ -1,5 +1,9 @@
-# Tags
-iOS app that shows the top hashtags related to a specified term. Built for Instagram, and responsible for many, many new followers. Simply search for a term related to the photo you are posting on Instagram and instantly copy 40 top related hashtags to your clipboard. Simply and easily paste those hashtags into your post and watch your followers grow big!
+![Tags - Top Hashtags for Instagram]()
+
+Tags is a dead-simple mobile app for iOS written in Swift. It displays the top hashtags related to a specified term. Built for Instagram, and responsible for many, many new followers.
+
+###### How to use the App
+Simply search for a term related to the photo you are posting on Instagram and instantly copy 40 top related hashtags to your clipboard. Simply and easily paste those hashtags into your post and watch your followers grow big!
 
 ## The Plan
 - [x] Build 1.0
