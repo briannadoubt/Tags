@@ -17,5 +17,5 @@ Simply search for a term related to the photo you are posting on Instagram and i
 - [Top-Hashtags](https://top-hashtags.com) - Top HashTags for the Internet
 
 ## Screenshots
-<img src="https://github.com/bornbrie/Tags/blob/master/README%20Resources/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%202018-01-14%20at%2017.44.07.png?raw=true" align="left" width="150" alt="Screenshot - Search">
-![Screenshot - Results](https://github.com/bornbrie/Tags/blob/master/README%20Resources/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%202018-01-14%20at%2017.44.35.png?raw=true)
+<img src="https://github.com/bornbrie/Tags/blob/master/README%20Resources/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%202018-01-14%20at%2017.44.07.png?raw=true" align="left" width="300" alt="Screenshot - Search">
+<img src="https://github.com/bornbrie/Tags/blob/master/README%20Resources/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%202018-01-14%20at%2017.44.35.png?raw=true" align="left" width="300" alt="Screenshot - Search">
