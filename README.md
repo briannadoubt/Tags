@@ -8,6 +8,7 @@ Simply search for a term related to the photo you are posting on Instagram and i
 ## The Plan
 - [x] Build 1.0
 - [ ] Release app to App Store.
+- [ ] Add direct link to open Instagram iOS app.
 - [x] Leave it free, forever.
 
 ## Dependencies
