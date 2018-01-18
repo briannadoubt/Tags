@@ -1,4 +1,4 @@
-![Tags - Top Hashtags for Instagram]()
+![Tags - Top Hashtags for Instagram](https://github.com/bornbrie/Tags/blob/master/README%20Resources/Tags%20Banner%20Image.jpg?raw=true)
 
 Tags is a dead-simple mobile app for iOS written in Swift. It displays the top hashtags related to a specified term. Built for Instagram, and responsible for many, many new followers.
 
