@@ -13,6 +13,7 @@ import Kanna
 class TagResultsViewController: UIViewController {
     
     @IBOutlet weak var resultsTableView: UITableView!
+    var instagramButton: UIBarButtonItem!
     
     public var unsafeTag: String?
     public var shouldShowBullets: Bool!
@@ -25,6 +26,12 @@ class TagResultsViewController: UIViewController {
         if let tag = unsafeTag {
             scrapeHTML(from: tag)
             title = "#" + tag
+        }
+    }
+    
+    @objc func openInstagram() {
+        if let instagramURL = URL(string: "instagram://app") {
+            UIApplication.shared.open(instagramURL)
         }
     }
     
@@ -104,7 +111,11 @@ extension TagResultsViewController: UITableViewDelegate, UITableViewDataSource {
         UIPasteboard.general.string = shouldShowBullets ? bullets + tagCollection : tagCollection
         let alert = UIAlertController(title: "Copied!", message: "These tags are now on your clipboard!", preferredStyle: .alert)
         let gotIt = UIAlertAction(title: "Got it", style: .default, handler: nil)
+        let openInstagram = UIAlertAction(title: "Open Instagram", style: UIAlertActionStyle.default) { action in
+            self.openInstagram()
+        }
         alert.addAction(gotIt)
+        alert.addAction(openInstagram)
         present(alert, animated: true, completion: nil)
     }
 }

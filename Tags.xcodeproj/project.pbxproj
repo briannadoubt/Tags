@@ -74,9 +74,9 @@
 			children = (
 				C93CFC5E200A1A6E0050F16A /* AppDelegate.swift */,
 				C93CFC7A200A1B010050F16A /* ViewControllers */,
+				C93CFC73200A1AF50050F16A /* Main.storyboard */,
 				C93CFC71200A1AF40050F16A /* Assets.xcassets */,
 				C93CFC72200A1AF40050F16A /* LaunchScreen.storyboard */,
-				C93CFC73200A1AF50050F16A /* Main.storyboard */,
 				C93CFC6A200A1A6F0050F16A /* Info.plist */,
 			);
 			path = Tags;
@@ -85,8 +85,8 @@
 		C93CFC7A200A1B010050F16A /* ViewControllers */ = {
 			isa = PBXGroup;
 			children = (
-				C93CFC70200A1AF40050F16A /* TagResultsViewController.swift */,
 				C93CFC74200A1AF50050F16A /* TagSearchViewController.swift */,
+				C93CFC70200A1AF40050F16A /* TagResultsViewController.swift */,
 			);
 			path = ViewControllers;
 			sourceTree = "<group>";
